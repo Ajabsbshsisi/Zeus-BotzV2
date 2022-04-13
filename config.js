@@ -49,14 +49,14 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'https://github.com/MASTERMAN200'
 kasihcaption = `Nih Syang ku`
-namakontak1 = 'My Senpai'
-namakontak2 = 'Pacarku'
+namakontak1 = 'Im David'
+namakontak2 = 'Im Kazeda'
 
 //kasihcaption = `Nih Sayang ku`
 
 // Sticker WM
-global.packname = 'Yukii Botz' // ganti aja
-global.author = 'Yukii Botz' // ganti aja
+global.packname = 'Yo nggak tau kok tanya saya' // ganti aja
+global.author = 'Yntkts ft Jokowi' // ganti aja
 
 //yyy
 bc = 'Yukii Botz' //YukiiBotz Broadcast
