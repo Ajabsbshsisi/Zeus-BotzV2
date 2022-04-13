@@ -18,7 +18,7 @@ global.linkGC = ['0'] // ganti jadi group lu
 global.owner = ['6282363267313','6287842959960'] // Put your number here //owner eval
 global.kontak = ['6282363267313','6287842959960'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['0'] // Premium user has unlimited limit
+global.prems = ['6281220170967'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   rey: 'https://server-api-rey.herokuapp.com',
