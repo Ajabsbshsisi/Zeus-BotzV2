@@ -15,8 +15,8 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['6289625556161','62896255561613'] // Put your number here //owner eval
-global.kontak = ['6289625556161','62896255561613'] //Ketika ada yang ngetik #owner
+global.owner = ['6282363267313','62282363267313'] // Put your number here //owner eval
+global.kontak = ['6282363267313','6282363267313'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
 global.prems = ['6289625556161','601164215501','60166408295','601161197507','601156232697','601172962735','60182387590','60109211153','6281391552752'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -49,8 +49,8 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'https://github.com/MASTERMAN200'
 kasihcaption = `Nih kak`
-namakontak1 = 'Pilar Owner Bot'
-namakontak2 = 'Caca Admin Bot'
+namakontak1 = 'David Owner Bot'
+namakontak2 = 'Kazeda Admin Bot'
 
 //kasihcaption = `Nih Kak`
 
