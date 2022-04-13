@@ -14,7 +14,7 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
+global.linkGC = ['0'] // ganti jadi group lu
 global.owner = ['6282363267313','6287842959960'] // Put your number here //owner eval
 global.kontak = ['6282363267313','6287842959960'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
@@ -62,8 +62,8 @@ global.author = 'Yukii Botz' // ganti aja
 bc = 'Yukii Botz' //YukiiBotz Broadcast
 footer = '\n© YuukiBotz'
 namabot = 'YuukiBotz'
-namalu = 'IM DAVID/KAZEDA'
-watermark = 'ZeusBotz' //ganti aja
+namalu = 'IM KAZEDA'
+watermark = 'Yuuki BotZ' //ganti aja
 
 // 
 wait = '_*Tunggu Sebentar...*_'
