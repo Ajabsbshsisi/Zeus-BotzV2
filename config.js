@@ -48,11 +48,11 @@ xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
 namagithub = 'https://github.com/MASTERMAN200'
-kasihcaption = `Nih Syang ku`
+kasihcaption = `Nih kak`
 namakontak1 = 'Im David'
 namakontak2 = 'Im Kazeda'
 
-//kasihcaption = `Nih Sayang ku`
+//kasihcaption = `Nih kak`
 
 // Sticker WM
 global.packname = 'Yo nggak tau kok tanya saya' // ganti aja
